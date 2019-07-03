@@ -21,5 +21,5 @@ Due to the proliferation of illegal calls and telemarketing, the FCC adopted a p
 
 [related story](https://www.businessinsider.com/how-to-stop-robocalls-to-cell-phone-explained-2018-5)
 
-Critique: this BI story has a clear objective and clarity. By reading the headline, readers can immediately identify the central idea: the U.S. suffers from a record high number of robocalls and this problem continues to exacerbate each year. That said, I do think the format should be more interactive, given that the story itself contains a lot of data and statistics that can be mapped out to allow readers a more straightforward and visually appealing way to understand the trend. 
+Critique: this BI story has a clear objective and clarity. By reading the headline, readers can immediately identify the central idea: in the U.S., the number of robocalls is currently at a record high and this problem continues to exacerbate each year. That said, I do think the format should be more interactive, given that the story itself contains a lot of data and statistics that can be mapped out to allow readers a more straightforward and visually appealing way to understand the trend. 
  
