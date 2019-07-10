@@ -5,7 +5,7 @@ _by Jessica Xieyang Qiao_
 
 ## 1. Silicon Valley indiactors
 
-Is Silicon Valley losing its luster? This is one debate that I have seen in recent years both inside and outside Silicon Valley, as people started to look for the next home of innovation beyond California given the state's high corporate tax rate and costly real estate. Presented by the Institute for Regional Studies, the dataset I found offers an extensive and fresh collection of data on Silicon Valley's eocnoomic and community health trends that fall into five categories: people, economy, soceity, place and governance. I am hoping to analyze these data and statistical indicators to take a comprehensive overview of Silicon Valley and gain a deeper understanding of issues facing this dense metropolitan region.  
+Is Silicon Valley losing its luster? This is one debate that I have seen in recent years both inside and outside Silicon Valley, as people started to look for the next home of innovation beyond California given the state's high corporate tax rate and costly real estate. Presented by the Institute for Regional Studies, the dataset I found offers an extensive and fresh collection of data on Silicon Valley's economic and community health trends that fall into five categories: people, economy, soceity, place and governance. I am hoping to analyze these data and statistical indicators to take a comprehensive overview of Silicon Valley and gain a deeper understanding of issues facing this dense metropolitan region.  
 
 [dataset](https://siliconvalleyindicators.org/)
 
