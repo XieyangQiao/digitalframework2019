@@ -8,6 +8,4 @@ The most visually appealing element of this data story would be trends over time
 
 This story is timely given the ongoing U.S.-China trade talk and the controversy over Huawei, the Chinese multinational technology company that is in hot water in the U.S. now. 
 
-This is timely because of the upcoming fight over Brett Kavanaugh, who President Donald Trump recently nominated to the court.
-
-For sources, I plan on talking to researchers at Brookings Institution’s China Center, professors who specialize in U.S.-China relationship and possibly Chinese investors. Essentially, I want to answer the question as to how have Chinese companies changed their investment behaviors in the U.S. over the years, how did that relate to the U.S.-China bilateral relationship and what kinds of impacts - both positive and negative - will that have on U.S. startups that need funds from big investors such as China?
+For sources, I plan on talking to researchers at Brookings Institution’s China Center, professors who specialize in U.S.-China relationship and possibly Chinese investors. Essentially, I want to answer the question as to how have Chinese companies changed their investment behaviors in the U.S. over the years, how does that relate to the U.S.-China bilateral relationship and what kinds of impacts - both positive and negative - will that have on U.S. startups that need funds from big investors such as China?
