@@ -20,4 +20,4 @@
 * we conclude that 2019 has the highest inventory to sales ratio, which is 1.348
 #### 4. Headline and nut graf
 ##### U.S. inventory may be getting ahead of demand
-###### As the U.S. inventories to sales ratio keep rising and hover around 1.35 this year, it may be a sign that inventories are getting ahead of demand. The accelerating tariffs may be a contributing factor to the softer-than-usual demand in the U.S.
+###### As the U.S. inventories to sales ratios keep rising and hover around 1.35 this year, it may be a sign that inventories are getting ahead of demand. The accelerating tariffs may be a contributing factor to the softer-than-usual demand in the U.S.
